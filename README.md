@@ -69,20 +69,22 @@ a)
 
 b)
 
-**Área Operacional do Pet Shop:**
-  * Cadastro da Empresa (Matriz e Filiais)
-  * Cadastro do Pet
-  * Cadastro dos Serviços Prestados
-  * Cadastro dos Produtos Vendidos
-  * Cadastro dos Funcionários
-  * Cadastro dos Fornecedores
-  * Cadastro das Despesas
-  * Cadastro das Reservas
+**Cadastro:**
+  * Empresa (Matriz e Filiais)
+  * Pet
+  * Serviços Prestados
+  * Produtos Vendidos
+  * Funcionários
+  * Cliente
+  * Usuários
+    
+  **Vendas:** 
   * Registro das Vendas
     
-**Área de Relacionamento com Clientes:**
-  * Cadastro do Cliente
-  * Cadastro dos Usuários
+**Operaçoes de negocio:**
+  * Fornecedores
+  * Despesas
+  * Reservas
 
 c) pdf em anexo
 
