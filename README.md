@@ -14,7 +14,8 @@ a)
    * Comportamento : são ações que um objeto pode realizar definidas pelos métodos.
    * Atributo : é a caracteristica de um objeto.
      
-b)
+b),c),d),e),f pdf em anexo
 
 ### 3.
+Polimorfismo é a característica única de linguagens orientadas a objetos que permite que diferentes objetos respondam a mesma mensagem cada um a sua maneira. Em termos de programação, polimorfismo representa a capacidade de uma única referência invocar métodos diferentes, dependendo do seu conteúdo.
 
